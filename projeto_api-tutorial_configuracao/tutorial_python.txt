@@ -1,0 +1,50 @@
+iniciando tutorial python
+
+Python é uma linguagem de programação de alto nível, interpretada, com sintaxe clara e legível, amplamente 
+utilizada em desenvolvimento web, análise de dados, inteligência artificial e automação. Criada por
+ Guido van Rossum em 1991, enfatiza a legibilidade do código e produtividade do programador.
+
+ fazer download python
+
+ Para fazer o download do Python, siga estes 3 passos simples:
+
+1. Acesse o site oficial do Python em python.org.
+2. Clique no botão de download para obter a versão mais recente do Python.
+3. Siga as instruções de instalação fornecidas no site para concluir o processo de download
+ e instalação do Python em seu computador.
+
+ instalação
+
+ Para criar um tutorial sobre como instalar o Python em sua máquina após o download, você pode seguir 
+ este guia passo a passo:
+
+Tutorial: Como Instalar o Python na sua Máquina
+
+Passo 1: Localize o Arquivo de Instalação
+
+1. Encontre o arquivo de instalação do Python que você baixou em seu computador.
+
+Passo 2: Executar o Instalador
+
+2. Dê um duplo clique no arquivo de instalação para iniciar o processo de instalação.
+
+Passo 3: Configuração da Instalação
+
+3. Siga as instruções do assistente de instalação:
+   - Escolha o diretório de instalação.
+   - Marque a opção "Add Python to PATH" para facilitar o acesso ao Python a partir do terminal.
+   - Clique em "Install" para iniciar a instalação.
+
+Passo 4: Verificação da Instalação
+
+4. Após a conclusão da instalação, abra o Prompt de Comando (Windows) ou o Terminal (Mac/Linux) e
+digite "python --version" para verificar se o Python foi instalado corretamente.
+
+Passo 5: Testar o Python
+
+5. Para testar o Python, digite "python" no Prompt de Comando ou Terminal e pressione Enter.
+ Você verá o prompt interativo do Python, indicando que a instalação foi bem-sucedida.
+
+Seguindo esses passos, você conseguirá instalar o Python em sua máquina e estará pronto para começar a programar.
+
+

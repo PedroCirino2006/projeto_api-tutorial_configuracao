@@ -1,0 +1,23 @@
+iniciando tutorial virtualenv
+
+o que é
+
+O `virtualenv` é uma ferramenta que cria ambientes Python isolados, permitindo a gestão de dependências e versões de pacotes específicos para diferentes projetos, evitando conflitos entre bibliotecas. Esses ambientes independentes garantem a integridade e consistência das dependências de cada projeto.
+
+como configurar
+
+Para configurar o `virtualenv`, siga estes passos:
+
+1. **Instalação do `virtualenv`:** Se o `virtualenv` não estiver instalado, utilize o comando `pip install virtualenv` para instalá-lo.
+   
+2. **Criar um Ambiente Virtual:** Para criar um ambiente virtual, execute o comando `virtualenv nome_da_virtualenv` na pasta raiz do projeto.
+
+3. **Ativar o Ambiente Virtual:** Para ativar o ambiente virtual, utilize o comando `source nome_da_virtualenv/bin/activate` no Linux ou macOS, e `nome_da_virtualenv\Scripts\Activate` no Windows.
+
+4. **Desativar o Ambiente Virtual:** Para desativar o ambiente virtual, utilize o comando `deactivate`.
+
+Seguindo esses passos, você poderá configurar e utilizar o `virtualenv` para isolar e gerenciar as dependências de seus projetos Python de forma eficiente.
+
+como instalar o flask 
+
+para instalar o flask voce tem que abrir o terminal bash e dar o comando pip install flask 

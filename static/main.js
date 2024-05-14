@@ -1,5 +1,6 @@
 // Events
 
+
 function load_data(url, target) {
     fetch(url)
         .then((resp) => resp.json())
